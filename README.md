@@ -10,6 +10,8 @@ Conversões múltiplas: Oferece no mínimo 6 opções de conversão pré-definid
 
 Tratamento de erros: Lógica básica para lidar com entradas inválidas do usuário e falhas na consulta à API.
 
+![Demonstração do Sorteio](2025-08-20-20-35-41.gif)
+
 
 # 🛠️ Tecnologias Utilizadas
 Linguagem: Java (JDK 11+)
