@@ -10,7 +10,6 @@ Conversões múltiplas: Oferece no mínimo 6 opções de conversão pré-definid
 
 Tratamento de erros: Lógica básica para lidar com entradas inválidas do usuário e falhas na consulta à API.
 
-Segurança: Utiliza um arquivo de propriedades para armazenar a chave da API, evitando exposição no código-fonte.
 
 # 🛠️ Tecnologias Utilizadas
 Linguagem: Java (JDK 11+)
